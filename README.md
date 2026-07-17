@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=100f19&height=230&section=header&text=mite88&fontAlignY=45&fontSize=82&fontColor=f8247c&animation=blink&desc=Backend%20%7C%20Spring%20%7C%20Service%20Flow%20Developer&descSize=24&descAlignY=73">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=edf1f7&height=230&section=header&text=mite88&fontAlignY=45&fontSize=82&fontColor=568bdb&animation=blink&desc=Backend%20%7C%20Spring%20%7C%20Service%20Flow%20Developer&descSize=24&descAlignY=73">
 
 <br>
 
 # 안녕하세요, 전옥주입니다.
 
-Java/Spring 기반 공공 SI, R&D, 이커머스 프로젝트를 경험한 웹 개발자입니다.  
-회원·인증, 주문·결제 검증, 관리자 기능, 챗봇 API, SAP 연동처럼 서비스의 핵심 흐름을 안정적으로 구현하는 데 관심이 있습니다.
-
-레거시 시스템을 Spring Boot 구조로 전환하거나, 외부 API·결제·ERP 연동에서 발생할 수 있는 예외 상황을 정리하는 작업을 좋아합니다.  
-기능 구현에만 그치지 않고 데이터 정합성, 인증 흐름, 운영 화면까지 연결해서 보는 개발자를 지향합니다.
+6년차 Java/Spring 기반 백엔드 개발자 전옥주입니다. 
+새로운 기술을 활용해 비즈니스 문제를 해결하는 것에 관심이 많습니다. 
+공공기관 SI와 이커머스 서비스의 백엔드 설계·개발·운영 경험, 10년 이상 운영된 PHP 레거시를 Spring Boot로 전환 
+한 경험으로 안정적인 시스템 설계와 SAP·AI 등 이기종 시스템 연동에 대한 높은 이해도를 가지고 있으며, 기획부터 
+배포까지 독립적으로 수행해 온 주도성 및 다양한 팀과의 협업 경험으로 원활한 커뮤니케이션이 가능합니다.
 
 <br>
 
@@ -18,29 +18,37 @@ Java/Spring 기반 공공 SI, R&D, 이커머스 프로젝트를 경험한 웹 �
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-111111?style=for-the-badge&logoColor=white)
+![eGovFrame](https://img.shields.io/badge/eGovFrame-005BAC?style=for-the-badge&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Database & Integration
+### DB · Infra
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white)
-
-### Frontend & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge&logoColor=white)
+![Chatbot](https://img.shields.io/badge/Chatbot-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+
+<br>
+
+## 📊 &nbsp;GITHUB LANGUAGE
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mite88&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 <br>
 
@@ -120,7 +128,7 @@ Java/Spring 기반 공공 SI, R&D, 이커머스 프로젝트를 경험한 웹 �
 <br>
 
 ## 📚 &nbsp;EDUCATION & CERTIFICATES
-
+- [가상융합 아카데미] 백엔드 과정_5기, 2026.05 - 2026.08(예정)
 - [이스트캠프] 와썹 AI 모델 개발 과정, 2025.11 - 2026.04
 - ELK 활용 빅데이터 분석서비스 플랫폼 개발자 양성 과정, 2022.03 - 2022.08
 - 컴퓨터공학 전공 학점은행제, 2026.02
