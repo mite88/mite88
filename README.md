@@ -44,13 +44,6 @@
 
 <br>
 
-## 📊 &nbsp;GITHUB LANGUAGE
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mite88&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<br>
 
 ## 🎁 &nbsp;PROJECTS
 
