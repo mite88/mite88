@@ -68,7 +68,7 @@
 <div markdown="1">
 
 - 진행 기간: 2022.09 - 2024.07
-- 참여 인원: 2명
+- 참여 인원: 3명
 - 기술 스택: Java, Spring Boot, JPA, BERT, Python, PDF, REST API
 - 담당 기능: PHP 레거시 → Spring Boot 마이그레이션, 챗봇 API 연동, Python 분석 결과 변환, 화면 출력, PDF 보고서 생성
 - 핵심 구현: 단일 도메인 중심의 챗봇 기능을 멀티도메인 구조로 확장하고, 분석 결과를 서비스 화면과 PDF 보고서로 연결했습니다.
@@ -82,7 +82,7 @@
 <div markdown="1">
 
 - 진행 상태: 현재 개발 중
-- 참여 인원: 확인 필요
+- 참여 인원: 3명
 - 기술 스택: Java, Spring Boot, JWT, Steam Web API, Transaction, Optimistic Lock
 - 담당 기능: Steam Ticket 인증, Access/Refresh JWT, Dedicated Server Service JWT, 레이드 결과 정산 API 설계
 - 핵심 설계: 전투 중 상태는 Dedicated Server가 관리하고, 사망·탈출 시 최종 결과만 Backend에서 트랜잭션으로 확정하는 구조를 설계하고 있습니다.
